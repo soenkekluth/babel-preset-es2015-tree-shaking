@@ -1,4 +1,6 @@
 # babel-preset-es2015-tree-shaking
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/babel-preset-es2015-tree-shaking.svg)](https://greenkeeper.io/)
 > Babel preset for all es2015 plugins except es2015-modules-commonjs to enable tree-shaking in webpack
 
 
